@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'p-lt';
+  src: url('../modules/fonts/ProximaNova-Light.eot');
+  src: url('../modules/fonts/ProximaNova-Light.eot?#iefix') format('embedded-opentype'),
+  url('../modules/fonts/ProximaNova-Light.woff') format('woff'),
+  url('../modules/fonts/ProximaNova-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'p-r';
+  src: url('../modules/fonts/ProximaNova-Regular.eot');
+  src: url('../modules/fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../modules/fonts/ProximaNova-Regular.woff') format('woff'),
+  url('../modules/fonts/ProximaNova-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'p-sm';
+  src: url('../modules/fonts/ProximaNova-Semibold.eot');
+  src: url('../modules/fonts/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype'),
+  url('../modules/fonts/ProximaNova-Semibold.woff') format('woff'),
+  url('../modules/fonts/ProximaNova-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'p-b';
+  src: url('../modules/fonts/ProximaNova-Bold.eot');
+  src: url('../modules/fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../modules/fonts/ProximaNova-Bold.woff') format('woff'),
+  url('../modules/fonts/ProximaNova-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}

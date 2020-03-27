@@ -1,0 +1,1568 @@
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J2 (2017)",
+    "description" : "Galaxy J2 (2017)",
+    "imageUrl" : "galaxy-j2-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy C7 (2017)",
+    "description" : "Galaxy C7 (2017)",
+    "imageUrl" : "galaxy-c7-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Note8",
+    "description" : "Galaxy Note8",
+    "imageUrl" : "galaxy-note8.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy S8 Active",
+    "description" : "Galaxy S8 Active",
+    "imageUrl" : "galaxy-s8-active.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J7 V",
+    "description" : "Galaxy J7 V",
+    "imageUrl" : "galaxy-j7-v.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Note FE",
+    "description" : "Galaxy Note FE",
+    "imageUrl" : "galaxy-note-fe.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J7 Max",
+    "description" : "Galaxy J7 Max",
+    "imageUrl" : "galaxy-j7-max.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J7 Pro ",
+    "description" : "Galaxy J7 Pro ",
+    "imageUrl" : "galaxy-j7-pro-.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J7 (2017)",
+    "description" : "Galaxy J7 (2017)",
+    "imageUrl" : "galaxy-j7-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J5 (2017)",
+    "description" : "Galaxy J5 (2017)",
+    "imageUrl" : "galaxy-j5-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J3 (2017)",
+    "description" : "Galaxy J3 (2017)",
+    "imageUrl" : "galaxy-j3-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Z4",
+    "description" : "Galaxy Z4",
+    "imageUrl" : "galaxy-z4.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy S8",
+    "description" : "Galaxy S8",
+    "imageUrl" : "galaxy-s8.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy S8+",
+    "description" : "Galaxy S8+",
+    "imageUrl" : "galaxy-s8-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy C5 Pro",
+    "description" : "Galaxy C5 Pro",
+    "imageUrl" : "galaxy-c5-pro.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Xcover 4",
+    "description" : "Galaxy Xcover 4",
+    "imageUrl" : "galaxy-xcover-4.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J1 Mini Prime",
+    "description" : "Galaxy J1 Mini Prime",
+    "imageUrl" : "galaxy-j1-mini-prime.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J3 Emerge",
+    "description" : "Galaxy J3 Emerge",
+    "imageUrl" : "galaxy-j3-emerge.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy C7 Pro",
+    "description" : "Galaxy C7 Pro",
+    "imageUrl" : "galaxy-c7-pro.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy A7 (2017)",
+    "description" : "Galaxy A7 (2017)",
+    "imageUrl" : "galaxy-a7-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy A5 (2017)",
+    "description" : "Galaxy A5 (2017)",
+    "imageUrl" : "galaxy-a5-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy A3 (2017)",
+    "description" : "Galaxy A3 (2017)",
+    "imageUrl" : "galaxy-a3-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Grand Prime Plus",
+    "description" : "Galaxy Grand Prime Plus",
+    "imageUrl" : "galaxy-grand-prime-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J2 Prime",
+    "description" : "Galaxy J2 Prime",
+    "imageUrl" : "galaxy-j2-prime.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy C9 Pro",
+    "description" : "Galaxy C9 Pro",
+    "imageUrl" : "galaxy-c9-pro.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy A8 (2016)",
+    "description" : "Galaxy A8 (2016)",
+    "imageUrl" : "galaxy-a8-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy On8",
+    "description" : "Galaxy On8",
+    "imageUrl" : "galaxy-on8.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy On7 (2016)",
+    "description" : "Galaxy On7 (2016)",
+    "imageUrl" : "galaxy-on7-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J5 Prime",
+    "description" : "Galaxy J5 Prime",
+    "imageUrl" : "galaxy-j5-prime.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J7 Prime",
+    "description" : "Galaxy J7 Prime",
+    "imageUrl" : "galaxy-j7-prime.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Z2",
+    "description" : "Galaxy Z2",
+    "imageUrl" : "galaxy-z2.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Note7 (USA)",
+    "description" : "Galaxy Note7 (USA)",
+    "imageUrl" : "galaxy-note7-usa.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Note7",
+    "description" : "Galaxy Note7",
+    "imageUrl" : "galaxy-note7.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy On7 Pro (2016)",
+    "description" : "Galaxy On7 Pro (2016)",
+    "imageUrl" : "galaxy-on7-pro-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy On5 Pro",
+    "description" : "Galaxy On5 Pro",
+    "imageUrl" : "galaxy-on5-pro.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J Max",
+    "description" : "Galaxy J Max",
+    "imageUrl" : "galaxy-j-max.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J2 Pro (2016)",
+    "description" : "Galaxy J2 Pro (2016)",
+    "imageUrl" : "galaxy-j2-pro-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J2 (2016)",
+    "description" : "Galaxy J2 (2016)",
+    "imageUrl" : "galaxy-j2-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Z3 Corporate Edition (2016)",
+    "description" : "Galaxy Z3 Corporate Edition (2016)",
+    "imageUrl" : "galaxy-z3-corporate-edition-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Xcover 3 G389F",
+    "description" : "Galaxy Xcover 3 G389F",
+    "imageUrl" : "galaxy-xcover-3-g389f.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy S7 Active",
+    "description" : "Galaxy S7 Active",
+    "imageUrl" : "galaxy-s7-active.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J3 Pro",
+    "description" : "Galaxy J3 Pro",
+    "imageUrl" : "galaxy-j3-pro.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy C7",
+    "description" : "Galaxy C7",
+    "imageUrl" : "galaxy-c7.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy C5",
+    "description" : "Galaxy C5",
+    "imageUrl" : "galaxy-c5.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy A9 Pro (2016)",
+    "description" : "Galaxy A9 Pro (2016)",
+    "imageUrl" : "galaxy-a9-pro-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J7 (2016)",
+    "description" : "Galaxy J7 (2016)",
+    "imageUrl" : "galaxy-j7-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J5",
+    "description" : "Galaxy J5",
+    "imageUrl" : "galaxy-j5.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy S7",
+    "description" : "Galaxy S7",
+    "imageUrl" : "galaxy-s7.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy S7 edge",
+    "description" : "Galaxy S7 edge",
+    "imageUrl" : "galaxy-s7-edge.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J1 Nxt",
+    "description" : "Galaxy J1 Nxt",
+    "imageUrl" : "galaxy-j1-nxt.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J1 (2016)",
+    "description" : "Galaxy J1 (2016)",
+    "imageUrl" : "galaxy-j1-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy A9 (2016)",
+    "description" : "Galaxy A9 (2016)",
+    "imageUrl" : "galaxy-a9-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy A7 (2016)",
+    "description" : "Galaxy A7 (2016)",
+    "imageUrl" : "galaxy-a7-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy A5 (2016)",
+    "description" : "Galaxy A5 (2016)",
+    "imageUrl" : "galaxy-a5-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy A3 (2016)",
+    "description" : "Galaxy A3 (2016)",
+    "imageUrl" : "galaxy-a3-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Express Prime",
+    "description" : "Galaxy Express Prime",
+    "imageUrl" : "galaxy-express-prime.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J3 (2016)",
+    "description" : "Galaxy J3 (2016)",
+    "imageUrl" : "galaxy-j3-2016.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy On7",
+    "description" : "Galaxy On7",
+    "imageUrl" : "galaxy-on7.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy On5",
+    "description" : "Galaxy On5",
+    "imageUrl" : "galaxy-on5.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Z3",
+    "description" : "Galaxy Z3",
+    "imageUrl" : "galaxy-z3.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy J1 Ace",
+    "description" : "Galaxy J1 Ace",
+    "imageUrl" : "galaxy-j1-ace.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Note 5",
+    "description" : "Galaxy Note 5",
+    "imageUrl" : "galaxy-note-5.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy Note 5 Duos",
+    "description" : "Galaxy Note 5 Duos",
+    "imageUrl" : "galaxy-note-5-duos.jpg"
+},
+{
+    "brandId" : ObjectId("59dd600e6a84dc9b1ed3a99b"),
+    "name" : "Galaxy S6 edge+",
+    "description" : "Galaxy S6 edge+",
+    "imageUrl" : "galaxy-s6-edge-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c1d50d19f03f797d2901"),
+    "name" : "Pixel 2",
+    "description" : "Pixel 2",
+    "imageUrl" : "pixel-2.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c1d50d19f03f797d2901"),
+    "name" : "Pixel 2 XL",
+    "description" : "Pixel 2 XL",
+    "imageUrl" : "pixel-2-xl.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c1d50d19f03f797d2901"),
+    "name" : "Pixel XL",
+    "description" : "Pixel XL",
+    "imageUrl" : "pixel-xl.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c1d50d19f03f797d2901"),
+    "name" : "Pixel",
+    "description" : "Pixel",
+    "imageUrl" : "pixel.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XZ1",
+    "description" : "Sony Xperia XZ1",
+    "imageUrl" : "sony-xperia-xz1.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XA1 Plus",
+    "description" : "Sony Xperia XA1 Plus",
+    "imageUrl" : "sony-xperia-xa1-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XZ1 Compact",
+    "description" : "Sony Xperia XZ1 Compact",
+    "imageUrl" : "sony-xperia-xz1-compact.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia L1",
+    "description" : "Sony Xperia L1",
+    "imageUrl" : "sony-xperia-l1.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XZs",
+    "description" : "Sony Xperia XZs",
+    "imageUrl" : "sony-xperia-xzs.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XZ Premium",
+    "description" : "Sony Xperia XZ Premium",
+    "imageUrl" : "sony-xperia-xz-premium.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XA1 Ultra",
+    "description" : "Sony Xperia XA1 Ultra",
+    "imageUrl" : "sony-xperia-xa1-ultra.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XA1",
+    "description" : "Sony Xperia XA1",
+    "imageUrl" : "sony-xperia-xa1.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia X Compact",
+    "description" : "Sony Xperia X Compact",
+    "imageUrl" : "sony-xperia-x-compact.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XZ",
+    "description" : "Sony Xperia XZ",
+    "imageUrl" : "sony-xperia-xz.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia E5",
+    "description" : "Sony Xperia E5",
+    "imageUrl" : "sony-xperia-e5.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XA Ultra",
+    "description" : "Sony Xperia XA Ultra",
+    "imageUrl" : "sony-xperia-xa-ultra.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia X Performance",
+    "description" : "Sony Xperia X Performance",
+    "imageUrl" : "sony-xperia-x-performance.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia X",
+    "description" : "Sony Xperia X",
+    "imageUrl" : "sony-xperia-x.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XA Dual",
+    "description" : "Sony Xperia XA Dual",
+    "imageUrl" : "sony-xperia-xa-dual.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia XA",
+    "description" : "Sony Xperia XA",
+    "imageUrl" : "sony-xperia-xa.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia Z5 Premium Dual",
+    "description" : "Sony Xperia Z5 Premium Dual",
+    "imageUrl" : "sony-xperia-z5-premium-dual.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia Z5 Premium",
+    "description" : "Sony Xperia Z5 Premium",
+    "imageUrl" : "sony-xperia-z5-premium.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia Z5 Dual",
+    "description" : "Sony Xperia Z5 Dual",
+    "imageUrl" : "sony-xperia-z5-dual.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c09f0d19f03f797d28e3"),
+    "name" : "Sony Xperia Z5",
+    "description" : "Sony Xperia Z5",
+    "imageUrl" : "sony-xperia-z5.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Mate 10 Porsche Design",
+    "description" : "Huawei Mate 10 Porsche Design",
+    "imageUrl" : "huawei-mate-10-porsche-design.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Mate 10 Pro",
+    "description" : "Huawei Mate 10 Pro",
+    "imageUrl" : "huawei-mate-10-pro.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Mate 10",
+    "description" : "Huawei Mate 10",
+    "imageUrl" : "huawei-mate-10.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Honor7X",
+    "description" : "Huawei Honor7X",
+    "imageUrl" : "huawei-honor7x.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Honor 6C Pro",
+    "description" : "Huawei Honor 6C Pro",
+    "imageUrl" : "huawei-honor-6c-pro.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Mate 10 Lite",
+    "description" : "Huawei Mate 10 Lite",
+    "imageUrl" : "huawei-mate-10-lite.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei P9 lite mini",
+    "description" : "Huawei P9 lite mini",
+    "imageUrl" : "huawei-p9-lite-mini.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Honor 9",
+    "description" : "Huawei Honor 9",
+    "imageUrl" : "huawei-honor-9.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Y7 Prime",
+    "description" : "Huawei Y7 Prime",
+    "imageUrl" : "huawei-y7-prime.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei nova 2 plus",
+    "description" : "Huawei nova 2 plus",
+    "imageUrl" : "huawei-nova-2-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei nova 2",
+    "description" : "Huawei nova 2",
+    "imageUrl" : "huawei-nova-2.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Y6II Compact",
+    "description" : "Huawei Y6II Compact",
+    "imageUrl" : "huawei-y6ii-compact.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Y7",
+    "description" : "Huawei Y7",
+    "imageUrl" : "huawei-y7.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Honor 6A",
+    "description" : "Huawei Honor 6A",
+    "imageUrl" : "huawei-honor-6a.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Y6 (2017)",
+    "description" : "Huawei Y6 (2017)",
+    "imageUrl" : "huawei-y6-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Y5 (2017)",
+    "description" : "Huawei Y5 (2017)",
+    "imageUrl" : "huawei-y5-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Y3 (2017)",
+    "description" : "Huawei Y3 (2017)",
+    "imageUrl" : "huawei-y3-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Honor 8 Pro",
+    "description" : "Huawei Honor 8 Pro",
+    "imageUrl" : "huawei-honor-8-pro.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei P10 Plus",
+    "description" : "Huawei P10 Plus",
+    "imageUrl" : "huawei-p10-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei P10",
+    "description" : "Huawei P10",
+    "imageUrl" : "huawei-p10.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei P10 Lite",
+    "description" : "Huawei P10 Lite",
+    "imageUrl" : "huawei-p10-lite.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei P8 Lite (2017)",
+    "description" : "Huawei P8 Lite (2017)",
+    "imageUrl" : "huawei-p8-lite-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c0e60d19f03f797d28ef"),
+    "name" : "Huawei Honor Magic",
+    "description" : "Huawei Honor Magic",
+    "imageUrl" : "huawei-honor-magic.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Redmi 5a",
+    "description" : "Xiaomi Redmi 5a",
+    "imageUrl" : "xiaomi-redmi-5a.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi Note 3",
+    "description" : "Xiaomi Mi Note 3",
+    "imageUrl" : "xiaomi-mi-note-3.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi Mix 2",
+    "description" : "Xiaomi Mi Mix 2",
+    "imageUrl" : "xiaomi-mi-mix-2.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Redmi Note 5A",
+    "description" : "Xiaomi Redmi Note 5A",
+    "imageUrl" : "xiaomi-redmi-note-5a.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Redmi Note 5A Prime",
+    "description" : "Xiaomi Redmi Note 5A Prime",
+    "imageUrl" : "xiaomi-redmi-note-5a-prime.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi A1",
+    "description" : "Xiaomi Mi A1",
+    "imageUrl" : "xiaomi-mi-a1.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi Max 2",
+    "description" : "Xiaomi Mi Max 2",
+    "imageUrl" : "xiaomi-mi-max-2.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Redmi 4 (4X)",
+    "description" : "Xiaomi Redmi 4 (4X)",
+    "imageUrl" : "xiaomi-redmi-4-4x.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi 6",
+    "description" : "Xiaomi Mi 6",
+    "imageUrl" : "xiaomi-mi-6.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi 5c",
+    "description" : "Xiaomi Mi 5c",
+    "imageUrl" : "xiaomi-mi-5c.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Redmi Note 4X",
+    "description" : "Xiaomi Redmi Note 4X",
+    "imageUrl" : "xiaomi-redmi-note-4x.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Redmi Note 4",
+    "description" : "Xiaomi Redmi Note 4",
+    "imageUrl" : "xiaomi-redmi-note-4.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Redmi 4a",
+    "description" : "Xiaomi Redmi 4a",
+    "imageUrl" : "xiaomi-redmi-4a.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Redmi 4 Prime",
+    "description" : "Xiaomi Redmi 4 Prime",
+    "imageUrl" : "xiaomi-redmi-4-prime.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi Mix",
+    "description" : "Xiaomi Mi Mix",
+    "imageUrl" : "xiaomi-mi-mix.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi Note 2",
+    "description" : "Xiaomi Mi Note 2",
+    "imageUrl" : "xiaomi-mi-note-2.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi 5s Plus",
+    "description" : "Xiaomi Mi 5s Plus",
+    "imageUrl" : "xiaomi-mi-5s-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2880d19f03f797d292d"),
+    "name" : "Xiaomi Mi 5s",
+    "description" : "Xiaomi Mi 5s",
+    "imageUrl" : "xiaomi-mi-5s.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC U11",
+    "description" : "HTC U11",
+    "imageUrl" : "htc-u11.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC One X10",
+    "description" : "HTC One X10",
+    "imageUrl" : "htc-one-x10.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC U Ultra",
+    "description" : "HTC U Ultra",
+    "imageUrl" : "htc-u-ultra.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC U Play",
+    "description" : "HTC U Play",
+    "imageUrl" : "htc-u-play.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC 10 evo",
+    "description" : "HTC 10 evo",
+    "imageUrl" : "htc-10-evo.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 650",
+    "description" : "HTC Desire 650",
+    "imageUrl" : "htc-desire-650.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 10 pro",
+    "description" : "HTC Desire 10 pro",
+    "imageUrl" : "htc-desire-10-pro.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 10 Compact",
+    "description" : "HTC Desire 10 Compact",
+    "imageUrl" : "htc-desire-10-compact.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 10 Lifestyle",
+    "description" : "HTC Desire 10 Lifestyle",
+    "imageUrl" : "htc-desire-10-lifestyle.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC One A9s",
+    "description" : "HTC One A9s",
+    "imageUrl" : "htc-one-a9s.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 728 Ultra",
+    "description" : "HTC Desire 728 Ultra",
+    "imageUrl" : "htc-desire-728-ultra.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 628",
+    "description" : "HTC Desire 628",
+    "imageUrl" : "htc-desire-628.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC One M9 Prime Camera",
+    "description" : "HTC One M9 Prime Camera",
+    "imageUrl" : "htc-one-m9-prime-camera.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 830",
+    "description" : "HTC Desire 830",
+    "imageUrl" : "htc-desire-830.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC One S9",
+    "description" : "HTC One S9",
+    "imageUrl" : "htc-one-s9.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC 10 Lifestyle",
+    "description" : "HTC 10 Lifestyle",
+    "imageUrl" : "htc-10-lifestyle.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC 10",
+    "description" : "HTC 10",
+    "imageUrl" : "htc-10.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 825",
+    "description" : "HTC Desire 825",
+    "imageUrl" : "htc-desire-825.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 630",
+    "description" : "HTC Desire 630",
+    "imageUrl" : "htc-desire-630.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2120d19f03f797d2911"),
+    "name" : "HTC Desire 530",
+    "description" : "HTC Desire 530",
+    "imageUrl" : "htc-desire-530.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c24d0d19f03f797d291f"),
+    "name" : "OnePlus 5",
+    "description" : "OnePlus 5",
+    "imageUrl" : "oneplus-5.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c24d0d19f03f797d291f"),
+    "name" : "OnePlus 3T",
+    "description" : "OnePlus 3T",
+    "imageUrl" : "oneplus-3t.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c24d0d19f03f797d291f"),
+    "name" : "OnePlus 3",
+    "description" : "OnePlus 3",
+    "imageUrl" : "oneplus-3.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c24d0d19f03f797d291f"),
+    "name" : "OnePlus X",
+    "description" : "OnePlus X",
+    "imageUrl" : "oneplus-x.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c24d0d19f03f797d291f"),
+    "name" : "OnePlus 2",
+    "description" : "OnePlus 2",
+    "imageUrl" : "oneplus-2.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c24d0d19f03f797d291f"),
+    "name" : "OnePlus One",
+    "description" : "OnePlus One",
+    "imageUrl" : "oneplus-one.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto X4",
+    "description" : "Motorola Moto X4",
+    "imageUrl" : "motorola-moto-x4.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto G5S Plus",
+    "description" : "Motorola Moto G5S Plus",
+    "imageUrl" : "motorola-moto-g5s-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto G5S",
+    "description" : "Motorola Moto G5S",
+    "imageUrl" : "motorola-moto-g5s.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto Z2 Force",
+    "description" : "Motorola Moto Z2 Force",
+    "imageUrl" : "motorola-moto-z2-force.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto E4 Plus",
+    "description" : "Motorola Moto E4 Plus",
+    "imageUrl" : "motorola-moto-e4-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto E4 Plus (USA)",
+    "description" : "Motorola Moto E4 Plus (USA)",
+    "imageUrl" : "motorola-moto-e4-plus-usa.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto E4",
+    "description" : "Motorola Moto E4",
+    "imageUrl" : "motorola-moto-e4.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto E4 (USA)",
+    "description" : "Motorola Moto E4 (USA)",
+    "imageUrl" : "motorola-moto-e4-usa.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto Z2 Play",
+    "description" : "Motorola Moto Z2 Play",
+    "imageUrl" : "motorola-moto-z2-play.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto C Plus",
+    "description" : "Motorola Moto C Plus",
+    "imageUrl" : "motorola-moto-c-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto C",
+    "description" : "Motorola Moto C",
+    "imageUrl" : "motorola-moto-c.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto G5 Plus",
+    "description" : "Motorola Moto G5 Plus",
+    "imageUrl" : "motorola-moto-g5-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto G5",
+    "description" : "Motorola Moto G5",
+    "imageUrl" : "motorola-moto-g5.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto M",
+    "description" : "Motorola Moto M",
+    "imageUrl" : "motorola-moto-m.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto E3 Power",
+    "description" : "Motorola Moto E3 Power",
+    "imageUrl" : "motorola-moto-e3-power.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto Z Play",
+    "description" : "Motorola Moto Z Play",
+    "imageUrl" : "motorola-moto-z-play.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto E3",
+    "description" : "Motorola Moto E3",
+    "imageUrl" : "motorola-moto-e3.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto Z Force",
+    "description" : "Motorola Moto Z Force",
+    "imageUrl" : "motorola-moto-z-force.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto Z",
+    "description" : "Motorola Moto Z",
+    "imageUrl" : "motorola-moto-z.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2780d19f03f797d2929"),
+    "name" : "Motorola Moto G4 Plus",
+    "description" : "Motorola Moto G4 Plus",
+    "imageUrl" : "motorola-moto-g4-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo K8 Plus",
+    "description" : "Lenovo K8 Plus",
+    "imageUrl" : "lenovo-k8-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo K8",
+    "description" : "Lenovo K8",
+    "imageUrl" : "lenovo-k8.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo K8 Note",
+    "description" : "Lenovo K8 Note",
+    "imageUrl" : "lenovo-k8-note.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo ZUK Edge",
+    "description" : "Lenovo ZUK Edge",
+    "imageUrl" : "lenovo-zuk-edge.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo A6600 Plus",
+    "description" : "Lenovo A6600 Plus",
+    "imageUrl" : "lenovo-a6600-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo A6600",
+    "description" : "Lenovo A6600",
+    "imageUrl" : "lenovo-a6600.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo B",
+    "description" : "Lenovo B",
+    "imageUrl" : "lenovo-b.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo A Plus",
+    "description" : "Lenovo A Plus",
+    "imageUrl" : "lenovo-a-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo P2",
+    "description" : "Lenovo P2",
+    "imageUrl" : "lenovo-p2.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2cf0d19f03f797d2949"),
+    "name" : "Lenovo K6 Note",
+    "description" : "Lenovo K6 Note",
+    "imageUrl" : "lenovo-k6-note.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo A71",
+    "description" : "Oppo A71",
+    "imageUrl" : "oppo-a71.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo A77",
+    "description" : "Oppo A77",
+    "imageUrl" : "oppo-a77.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo R11 Plus",
+    "description" : "Oppo R11 Plus",
+    "imageUrl" : "oppo-r11-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo R11",
+    "description" : "Oppo R11",
+    "imageUrl" : "oppo-r11.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo A77 (Mediatek)",
+    "description" : "Oppo A77 (Mediatek)",
+    "imageUrl" : "oppo-a77-mediatek.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo A39",
+    "description" : "Oppo A39",
+    "imageUrl" : "oppo-a39.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo F3",
+    "description" : "Oppo F3",
+    "imageUrl" : "oppo-f3.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo F3 Plus",
+    "description" : "Oppo F3 Plus",
+    "imageUrl" : "oppo-f3-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo A57",
+    "description" : "Oppo A57",
+    "imageUrl" : "oppo-a57.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo F1s",
+    "description" : "Oppo F1s",
+    "imageUrl" : "oppo-f1s.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo R9s Plus",
+    "description" : "Oppo R9s Plus",
+    "imageUrl" : "oppo-r9s-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo R9s",
+    "description" : "Oppo R9s",
+    "imageUrl" : "oppo-r9s.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo A37",
+    "description" : "Oppo A37",
+    "imageUrl" : "oppo-a37.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo A59",
+    "description" : "Oppo A59",
+    "imageUrl" : "oppo-a59.jpg"
+},
+{
+    "brandId" : ObjectId("59e2c2de0d19f03f797d294b"),
+    "name" : "Oppo R9 Plus",
+    "description" : "Oppo R9 Plus",
+    "imageUrl" : "oppo-r9-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG V30",
+    "description" : "LG V30",
+    "imageUrl" : "lg-v30.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Q8",
+    "description" : "LG Q8",
+    "imageUrl" : "lg-q8.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Q6",
+    "description" : "LG Q6",
+    "imageUrl" : "lg-q6.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X Venture",
+    "description" : "LG X Venture",
+    "imageUrl" : "lg-x-venture.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG G6",
+    "description" : "LG G6",
+    "imageUrl" : "lg-g6.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X power2",
+    "description" : "LG X power2",
+    "imageUrl" : "lg-x-power2.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Stylo 3 plus",
+    "description" : "LG Stylo 3 plus",
+    "imageUrl" : "lg-stylo-3-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Stylus 3",
+    "description" : "LG Stylus 3",
+    "imageUrl" : "lg-stylus-3.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Harmony",
+    "description" : "LG Harmony",
+    "imageUrl" : "lg-harmony.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K20 Plus",
+    "description" : "LG K20 Plus",
+    "imageUrl" : "lg-k20-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K10 (2017)",
+    "description" : "LG K10 (2017)",
+    "imageUrl" : "lg-k10-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K8 (2017)",
+    "description" : "LG K8 (2017)",
+    "imageUrl" : "lg-k8-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K7 (2017)",
+    "description" : "LG K7 (2017)",
+    "imageUrl" : "lg-k7-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K4 (2017)",
+    "description" : "LG K4 (2017)",
+    "imageUrl" : "lg-k4-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K3 (2017)",
+    "description" : "LG K3 (2017)",
+    "imageUrl" : "lg-k3-2017.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG U",
+    "description" : "LG U",
+    "imageUrl" : "lg-u.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG V20",
+    "description" : "LG V20",
+    "imageUrl" : "lg-v20.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X Skin",
+    "description" : "LG X Skin",
+    "imageUrl" : "lg-x-skin.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X5",
+    "description" : "LG X5",
+    "imageUrl" : "lg-x5.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X max",
+    "description" : "LG X max",
+    "imageUrl" : "lg-x-max.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X mach",
+    "description" : "LG X mach",
+    "imageUrl" : "lg-x-mach.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X power",
+    "description" : "LG X power",
+    "imageUrl" : "lg-x-power.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X style",
+    "description" : "LG X style",
+    "imageUrl" : "lg-x-style.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Stylus 2 plus",
+    "description" : "LG Stylus 2 plus",
+    "imageUrl" : "lg-stylus-2-plus.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Stylo 2",
+    "description" : "LG Stylo 2",
+    "imageUrl" : "lg-stylo-2.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K5",
+    "description" : "LG K5",
+    "imageUrl" : "lg-k5.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K3",
+    "description" : "LG K3",
+    "imageUrl" : "lg-k3.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG G5 S3",
+    "description" : "LG G5 S3",
+    "imageUrl" : "lg-g5-s3.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG G5",
+    "description" : "LG G5",
+    "imageUrl" : "lg-g5.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X cam",
+    "description" : "LG X cam",
+    "imageUrl" : "lg-x-cam.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG X screen",
+    "description" : "LG X screen",
+    "imageUrl" : "lg-x-screen.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K8",
+    "description" : "LG K8",
+    "imageUrl" : "lg-k8.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Stylus 2",
+    "description" : "LG Stylus 2",
+    "imageUrl" : "lg-stylus-2.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K10",
+    "description" : "LG K10",
+    "imageUrl" : "lg-k10.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K7",
+    "description" : "LG K7",
+    "imageUrl" : "lg-k7.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG K4",
+    "description" : "LG K4",
+    "imageUrl" : "lg-k4.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Ray",
+    "description" : "LG Ray",
+    "imageUrl" : "lg-ray.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG G Vista 2",
+    "description" : "LG G Vista 2",
+    "imageUrl" : "lg-g-vista-2.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG V10",
+    "description" : "LG V10",
+    "imageUrl" : "lg-v10.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Nexus 5X",
+    "description" : "LG Nexus 5X",
+    "imageUrl" : "lg-nexus-5x.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Zero",
+    "description" : "LG Zero",
+    "imageUrl" : "lg-zero.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Wine Smart",
+    "description" : "LG Wine Smart",
+    "imageUrl" : "lg-wine-smart.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Tribute 2",
+    "description" : "LG Tribute 2",
+    "imageUrl" : "lg-tribute-2.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG Bello II",
+    "description" : "LG Bello II",
+    "imageUrl" : "lg-bello-ii.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG G4 Beat",
+    "description" : "LG G4 Beat",
+    "imageUrl" : "lg-g4-beat.jpg"
+},
+{
+    "brandId" : ObjectId("59ec831b23d280bc0ceb8c1b"),
+    "name" : "LG G4c",
+    "description" : "LG G4c",
+    "imageUrl" : "lg-g4c.jpg"
+},
+{
+    "_id" : ObjectId("59e0a55a765166dbcb4a74a0"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone X",
+    "description" : "iPhone X",
+    "imageUrl" : "iphone-x.jpg"
+},
+{
+    "_id" : ObjectId("59e0a541765166dbcb4a7495"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 8",
+    "description" : "iPhone 8 Plus",
+    "imageUrl" : "iphone-8-plus.jpg"
+},
+{
+    "_id" : ObjectId("59e0a525765166dbcb4a748a"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 8",
+    "description" : "iPhone 8",
+    "imageUrl" : "iphone-8.jpg"
+},
+{
+    "_id" : ObjectId("59e0a505765166dbcb4a7478"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 7 Plus",
+    "description" : "iPhone 7 Plus",
+    "imageUrl" : "iphone-7-plus.jpg"
+},
+{
+    "_id" : ObjectId("59e0a4ad765166dbcb4a7454"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 7",
+    "description" : "iPhone 7",
+    "imageUrl" : "iphone-7.jpg"
+},
+{
+    "_id" : ObjectId("59e0a3f6765166dbcb4a7408"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone SE",
+    "description" : "iPhone SE",
+    "imageUrl" : "iphone-se.jpg"
+},
+{
+    "_id" : ObjectId("59e0a377765166dbcb4a73ca"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 6s Plus",
+    "description" : "iPhone 6s Plus",
+    "imageUrl" : "iphone-6-s-plus.jpg"
+},
+{
+    "_id" : ObjectId("59e059b3765166dbcb4a6654"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 6s",
+    "description" : "iPhone 6s",
+    "imageUrl" : "iphone-6-s.jpg"
+},
+{
+    "_id" : ObjectId("59e059a4765166dbcb4a6643"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 6 Plus",
+    "description" : "iPhone 6 Plus",
+    "imageUrl" : "iphone-6-plus.jpg"
+},
+{
+    "_id" : ObjectId("59e05992765166dbcb4a662d"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 6",
+    "description" : "iPhone 6",
+    "imageUrl" : "iphone-6.jpg"
+},
+{
+    "_id" : ObjectId("59dd5e8b6a84dc9b1ed3a941"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 5s",
+    "description" : "iPhone 5s",
+    "imageUrl" : "iphone-5-s.jpg"
+},
+{
+    "_id" : ObjectId("59dd5e8b6a84dc9b1ed3a941"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 5c",
+    "description" : "iPhone 5c",
+    "imageUrl" : "iphone-5-c.jpg"
+},
+{
+    "_id" : ObjectId("59dd5e4a6a84dc9b1ed3a939"),
+    "brandId" : ObjectId("59dd5bb06a84dc9b1ed3a8e8"),
+    "name" : "iPhone 5",
+    "description" : "iPhone 5",
+    "imageUrl" : "iphone-5.jpg"
+}
+

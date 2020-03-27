@@ -1,0 +1,330 @@
+@media screen {
+
+  //  Media query 992px
+  @media (max-width: 992px) {
+
+    .container {
+      max-width: 100%;
+    }
+
+    .mobile-Visible {
+      display: block;
+    }
+
+    .desktop-Visible {
+      display: none;
+    }
+
+    .header_content {
+
+      height: 120px;
+      align-items: center;
+      padding: 0;
+
+      h1, p {
+        display: none;
+      }
+
+      .search_bar {
+        border: 0px;
+      }
+
+    }
+
+    .def_nav11 {
+
+      .navigation1 {
+        margin-top: 10px;
+        border-top: 1px solid rgba(233, 233, 233, 0.56);
+        padding-top: 10px !important;
+      }
+
+      .navigation1,
+      .navigation2 {
+        li > a:hover {
+          color: $primary-color !important;;
+        }
+        li > a {
+          padding: 7px 5px !important;
+          @include transition(all 0.5s ease-in-out)
+        }
+      }
+
+      .navigation2 {
+        padding-left: 0px;
+        margin: 0px;
+        border: none;
+      }
+
+    }
+
+    .section_h {
+      text-align: left;
+      font-size: 38px;
+    }
+
+    .section_h:after {
+      margin: 20px 0 30px
+    }
+
+    .default_padd {
+      padding: 35px 15px;
+    }
+
+    .owl-nav {
+      display: none !important;
+    }
+
+    .iphones_sale11 .row > div:first-child {
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 42px;
+
+      h2 {
+        margin: 0px;
+      }
+
+      > a {
+        margin: 0px;
+        padding-right: 15px;
+      }
+
+    }
+
+    .categories112 .cat-block-flex .block-cat:nth-child(3) > a,
+    .categories112 .cat-block-flex .block-cat:nth-child(4) > a {
+      .img-holder > span {
+        height: 75%;
+      }
+    }
+
+    .categories112 .cat-block-flex .block-cat:last-child > a {
+      margin-right: 0px;
+    }
+
+    .categories112 .block-cat > a {
+      display: block;
+      width: 161px;
+      height: 169px;
+      overflow: hidden;
+      border: 1px solid #d7d7d7;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-right: 15px;
+
+      h3 {
+        font-size: 28px;
+        margin-top: 12px;
+        margin-bottom: 0px;
+      }
+
+      .img-holder {
+        height: 90px;
+        margin: 0px;
+
+        span {
+          height: 100%;
+          width: auto;
+
+          img {
+            height: 100%;
+            width: auto;
+          }
+        }
+
+      }
+
+    }
+
+    .iphones_sale11 {
+
+      padding: 30px 0 30px;
+
+      h2{
+        font-size: 28px;
+      }
+
+      .item {
+        padding: 0px 50px 0px 0px;
+        img {
+          height: 180px;
+        }
+      }
+    }
+
+    .search_bar{
+
+      >a{
+        font-size: 14px !important;
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+
+      .input_wrapper:after{
+        top: 7px !important;
+      }
+
+      >div,>a{
+        height: 50px !important;
+
+        img{
+          top: 16px!important;
+          left: 12px !important;
+          width: 18px;
+        }
+
+        input,select{
+          padding-left: 37px!important;
+          font-size: 14px!important;
+        }
+
+      }
+
+      .select_wrapper:after{
+
+        top: 14px !important;
+        right: 10px !important;
+        transform: scale(0.7);
+
+      }
+
+      .select_wrapper{
+        width: 70px !important;
+
+        >select{
+          color: rgba(0,0,0,0) !important;
+        }
+
+        img{
+          top: 20px !important;;
+        }
+      }
+
+    }
+
+
+  }
+
+  //  Media query 767px
+  @media (max-width: 767px) {
+
+    .navbar-brand {
+      img {
+        width: 110px;
+      }
+    }
+
+    .section_h {
+      font-size: 25px;
+    }
+
+    .def_nav11 {
+      padding: 15px;
+
+      ul > li.active:before {
+        display: none;
+      }
+
+      .m-sell-cta {
+        margin: 0px;
+        font-size: 15px;
+        padding: 5px 15px !important;
+        border-radius: 20px;
+        margin-right: -20px;
+      }
+
+      .navbar-toggler {
+        padding: 3px 9px;
+
+        .bars {
+          width: 25px;
+          height: 2px;
+          margin: 3px 0 7px;
+        }
+
+      }
+
+    }
+
+    .categories112 {
+      .container {
+        padding: 0px;
+
+        .block-cat:nth-child(3) > a .img-holder > span,
+        .block-cat:nth-child(4) > a .img-holder > span{
+          height: 65%;
+        }
+
+        .block-cat {
+
+          a {
+            width: auto;
+            height: auto;
+            padding: 8px 9px;
+            margin-right: 5px;
+
+
+            .img-holder {
+              height: 50px;
+              margin: 0px;
+            }
+
+
+            h3 {
+              font-size: 16px;
+              margin-top: 6px;
+            }
+
+          }
+
+        }
+
+      }
+    }
+
+    .iphones_sale11 {
+
+      .item {
+        padding: 0px;
+
+        p {
+          font-size: 14px;
+        }
+
+        h3 {
+          font-size: 16px;
+        }
+
+        img {
+          height: 105px;
+        }
+      }
+    }
+
+    .Latop_carousel {
+      .item {
+
+        div.img-holder {
+          height: 65px;
+
+          img {
+            height: 65px !important;
+          }
+
+        }
+
+      }
+    }
+
+    #footer{
+      div:first-child>.row>div{
+        min-height: 120px;
+      }
+    }
+
+  }
+
+}

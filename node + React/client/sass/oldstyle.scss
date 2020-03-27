@@ -1,0 +1,250 @@
+$color:#dddddd;
+$padding-size:15px;
+$margin-size:15px;
+$border-width:2px;
+$border-color:#333;
+$link-color:#289EE0;
+$fb-color:#29487d;
+$goolge-color:#db4437;
+$white-color:#fff;
+$price-color:#b6d7a8;
+
+
+$extra-small:220px;
+$break-small: 320px;
+$break-medium:480px;
+$break-large: 1200px;
+
+@mixin transition($trans){
+	-webkit-transition:$trans;
+	-moz-transition:$trans;
+	-o-transition:$trans;
+	-ms-transition:$trans;
+	transition:$trans;
+}
+/*end of declration variable */
+.logo{
+	border:$border-width solid $border-color;
+	display:inline-block;
+	padding:5px 30px 5px 5px;
+	}
+h2{
+	text-align:center;
+	
+}
+.sign-btn{	
+	background:$color;
+	display:block;
+	margin:10px;
+	padding:$padding-size;
+	text-align:center;
+	border:1px solid $border-color;
+}
+.sign-btn,.btn-sign:hover{
+	cursor:pointer;
+}
+.fb:hover{
+	background:$fb-color;
+	color:$white-color;
+	@include transition(0.3s ease-in);
+	
+}
+.google:hover{
+	background:$goolge-color;
+	color:$white-color;
+	@include transition(0.3s ease-in);
+}
+.register{
+	margin-top:$margin-size +10;
+}
+input{
+    margin: 20px;
+    margin-top: $margin-size - 5 !important;
+    display: block;
+    width: 100%;
+    padding:$padding-size !important;
+ }
+ input:focus {
+    background-color: #ccc !important;
+    color:$white-color !important;
+    font-size:26px;
+    @include transition(0.3s ease-in);
+}
+.link2{
+	margin-left:30%;
+	color:$link-color;
+		 @media screen and (max-width: $break-small) {
+			    margin-left:5%;
+			    float: none;
+	  }
+	  @media screen and (max-width: $break-medium) {
+			    margin-left:13%;
+			    float: none;
+	  }
+	  @media screen and (max-width: $extra-small) {			    
+			  text-align:center;
+			  display:block;
+			   float: none;			 
+	  }
+}//end of class link2
+.btn{
+	padding:$padding-size !important;
+}
+.btn-sign{
+	width:100%;
+	padding:15px;
+	border:1px solid $border-color !important;
+}
+.line{
+     border:1px solid #666;
+     width: 98%;
+     margin: 0 auto;
+}
+.bottom{
+	text-align:center;	
+}
+.bottom strong::after{
+	content:" ";
+	white-space:  pre-wrap;
+	}
+.bottom p{
+	line-height:46%;
+	text-align:center;
+}
+.register,.signin{
+	margin-top:40px;
+}
+
+#tips{
+	text-align:center;
+	@media screen and (max-width: $extra-small) {			    
+			    float: left;
+			    clear:both;
+	  }
+}
+div{
+	margin:10px;
+}
+
+
+/* code for or */
+h2 {
+    font: 30px sans-serif;
+    margin-top: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2.background {
+    position: relative;
+    z-index: 1;
+    
+    &:before {
+        border-top: 1px solid #333;
+        content:"";
+        margin: 0 auto; /* this centers the line to the full width specified */
+        position: absolute; /* positioning must be absolute here, and relative positioning must be applied to the parent */
+        top: 50%; left: 0; right: 0; bottom: 0;
+        width: 96%;
+        z-index: -1;
+    }
+
+    span { 
+        /* to hide the lines from behind the text, you have to set the background color the same as the container */ 
+        background: #fff; 
+        padding: 0 15px; 
+    }
+}
+//third 
+.navbar-toggle .icon-bar {
+    background-color: #333 !important;
+}
+//slider 
+/* carousel */
+.media-carousel,.media-carousel2 
+{
+  margin-bottom: 0;
+  padding: 0 40px 30px 40px;
+  margin-top: 30px;
+
+}
+/* Previous button  */
+.media-carousel .carousel-control.left,.media-carousel2 .carousel-control.left 
+{
+  left: -12px;
+  background-image: none;
+  background: none repeat scroll 0 0 #222222;
+  border: 4px solid #FFFFFF;
+  border-radius: 23px 23px 23px 23px;
+  height: 40px;
+  width : 40px;
+  margin-top: 150px; 
+}
+/* Next button  */
+.media-carousel .carousel-control.right,.media-carousel2 .carousel-control.right
+{
+  right: -12px !important;
+  background-image: none;
+  background: none repeat scroll 0 0 #222222;
+  border: 4px solid #FFFFFF;
+  border-radius: 23px 23px 23px 23px;
+  height: 40px;
+  width : 40px;
+  margin-top: 150px;
+}
+/* Changes the position of the indicators */
+.media-carousel .carousel-indicators,.media-carousel2 .carousel-indicators 
+{
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the colour of the indicators */
+.media-carousel .carousel-indicators li,.media-carousel2 .carousel-indicators li 
+{
+  background: #c0c0c0;
+}
+.media-carousel .carousel-indicators .active,.media-carousel2 .carousel-indicators .active 
+{
+  background: #333333;
+}
+.media-carousel img,.media-carousel2 img
+{
+  width: 250px;
+  height: 250px;
+}
+/* End carousel */
+.carousel-control.left {
+    background-image: none !important;
+    }
+.carousel-control.right {
+ background-image: transparent !important;
+ }
+ .thumbnail { border:none;}
+ .thumbnail2 { border:1px solid $border-color; padding:5px;}
+ .view{
+      float:right;
+ }
+ span.price {
+    background: $price-color;
+    padding: 5px;
+    float: right;
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    &.align-center {
+        margin: 1em auto;
+    }
+}
+.slick-prev:before, .slick-next:before { font-family: "slick"; font-size: 40px; line-height: 1; color: red; opacity: 0.75; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }   
+
+.slick-prev:before { content: "‹"; }
+[dir="rtl"] .slick-prev:before { content: "›"; }
+
+[dir="rtl"] .slick-next { left: -10px; top: 70px; right: auto; }
+.slick-next:before { content: "›"; }
+[dir="rtl"] .slick-next:before { content: "‹"; }

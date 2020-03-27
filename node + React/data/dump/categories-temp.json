@@ -1,0 +1,48 @@
+{
+    "_id": {
+        "$oid": "59dab0131c0d758ddd4ac182"
+    },
+    "name": "Phones",
+    "description": "Mobile Phones",
+    "isSubCategory": true,
+    "imageUrl": "phone.png",
+    "subCategories": [
+        {
+            "id": "11",
+            "name": "android",
+            "description": "android phone"
+        },
+        {
+            "id": "12",
+            "name": "iphone",
+            "description": "iphone"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "59dab03a1c0d758ddd4ac194"
+    },
+    "name": "Tablets",
+    "imageUrl": "tablet.png",
+    "description": "Tablets",
+    "isSubCategory": false
+}
+{
+    "_id": {
+        "$oid": "59dab0621c0d758ddd4ac19c"
+    },
+    "name": "Watches",
+    "description": "Watches",
+    "imageUrl": "watch.png",
+    "isSubCategory": false
+}
+{
+    "_id": {
+        "$oid": "59dab08e1c0d758ddd4ac1a2"
+    },
+    "name": "Laptops",
+    "description": "Laptops",
+    "imageUrl": "laptop.png",
+    "isSubCategory": false
+}

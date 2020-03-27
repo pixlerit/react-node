@@ -1,0 +1,49 @@
+/* eslint-disable global-require */
+import React from 'react';
+import { Route, IndexRoute } from 'react-router';
+import App from './modules/App/App';
+
+
+import requireAuth from './modules/Authenticate/require_authentication';
+
+import Signin from './modules/Authenticate/signin';
+import Signout from './modules/Authenticate/signout';
+import Signup from './modules/Authenticate/signup';
+import Home from './modules/Home/home';
+import ModelList from './modules/ModelListing/components/modelList';
+import AdList from './modules/AdList/components/adList';
+
+
+// require.ensure polyfill for node
+if (typeof require.ensure !== 'function') {
+  require.ensure = function requireModule(deps, callback) {
+    callback(require);
+  };
+}
+
+/* Workaround for async react routes to work with react-hot-reloader till
+  https://github.com/reactjs/react-router/issues/2182 and
+  https://github.com/gaearon/react-hot-loader/issues/288 is fixed.
+ */
+if (process.env.NODE_ENV !== 'production') {
+  // Require async routes only in development for react-hot-reloader to work.
+  
+}
+
+// react-router setup with code-splitting
+// More info: http://blog.mxstbr.com/2016/01/react-apps-with-pages/
+export default (
+ <Route path="/" component = {App} >
+    
+    <Route  />
+      <Route path="Signin" component = {Signin} />
+      <Route path="Home" component = { Home }  />
+      <Route path="Signout" component = {Signout} />
+      <Route path="Signup" component = {Signup} />
+      <Route path="list/:catId" component = {ModelList} />
+      <Route path="list/:catId/:subCatId" component = {ModelList} />
+      <Route path="adlist/:modelId" component = {AdList} />
+  
+  </Route>
+  
+);
